@@ -27,5 +27,14 @@ val albums = listOf(Album("The Dark Side of the Moon", 1973, 2,
         Album("More", 1969, 9))
 
 fun main(args: Array<String>) {
+//    for (album in albums) {
+//        if (album.ranking == 1) {
+//            println(album.title)
+//        }
+//    }
+    // albums.filter { it.ranking == 1 }.forEach { album -> println(album.title) }
+    // [a, b ,c] f(x) = f(a), f(b), f(c)
+    val titles = albums.filter { it.ranking == 1 }.map { it.title }
+    titles.forEach { println(it) }
 
 }

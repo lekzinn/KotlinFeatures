@@ -1,14 +1,19 @@
 # KotlinFeatures
 
-## Aulas
+## Videos das Aulas
 
-[Kotlin Basics](https://www.youtube.com/watch?v=3x8lAAc5tU0)
+[Kotlin: Basics](https://www.youtube.com/watch?v=3x8lAAc5tU0)
 
-[Kotlin Classes](https://www.youtube.com/watch?v=9enW85vtw70)
+[Kotlin: Classes](https://www.youtube.com/watch?v=9enW85vtw70)
 
-[Kotlin Inheritance et al](https://www.youtube.com/watch?v=5BKQAwcbZZw)
+[Kotlin: Inheritance et al](https://www.youtube.com/watch?v=5BKQAwcbZZw)
 
-[Kotlin NullSafe and Tidbits](https://www.youtube.com/watch?v=wt1-yjYaj7M)
+[Kotlin: NullSafe and Tidbits](https://www.youtube.com/watch?v=wt1-yjYaj7M)
+
+[Kotlin: Get functional](https://youtu.be/3fWuN41MQl4)
+
+[Kotlin: Standard Library](https://youtu.be/s3UE4ZmjYoQ)
+
 
 ## References
 
