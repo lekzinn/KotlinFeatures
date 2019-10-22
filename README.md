@@ -2,6 +2,8 @@
 
 ## Videos das Aulas
 
+### Basic
+
 [Kotlin: Basics](https://www.youtube.com/watch?v=3x8lAAc5tU0)
 
 [Kotlin: Classes](https://www.youtube.com/watch?v=9enW85vtw70)
@@ -13,6 +15,12 @@
 [Kotlin: Get functional](https://youtu.be/3fWuN41MQl4)
 
 [Kotlin: Standard Library](https://youtu.be/s3UE4ZmjYoQ)
+
+
+### Advanced
+
+[Kotlin: Diving Deeper into functions](https://youtu.be/XLbrxzt8pg4)
+
 
 
 ## References
